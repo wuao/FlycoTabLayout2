@@ -71,7 +71,7 @@
 
  可以参考这个地址 
 
-https://jitpack.io/#wuao/FlycoTabLayout2/v1.1.2
+https://jitpack.io/#wuao/FlycoTabLayout2/v1.1.3
 
 repositories {
             mavenCentral()
@@ -80,7 +80,7 @@ repositories {
 
 ```groovy
 dependencies{
-  implementation 'com.github.wuao:FlycoTabLayout2:v1.1.2'
+  implementation 'com.github.wuao:FlycoTabLayout2:v1.1.3'
 }
 
 

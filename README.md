@@ -100,7 +100,7 @@ Add a declare to module `build.gradle`
 
 ```groovy
 dependencies{
-   implementation 'com.github.wuao:FlycoTabLayout2:v1.1.2'
+   implementation 'com.github.wuao:FlycoTabLayout2:v1.1.3'
 }
 
 
